@@ -4,7 +4,7 @@
 
 ## 🧠 What I’m Working On
 
-- 🤖 **AI Product Exploration**: Building demo projects using LangChain and LLMs to understand user applications of generative AI
+- 🤖 **AI Product Exploration**: Building demo projects using LLMs to understand user applications of generative AI
 - 📚 **Open Source Contributions**: Improving documentation, onboarding, and usability for developer-facing AI tools
 
   ## 🛠️ Tech & Tools
