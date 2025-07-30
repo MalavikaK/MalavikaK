@@ -16,6 +16,6 @@
 
 ## 📫 Let’s Connect
 
--[LinkedIn] (https://www.linkedin.com/in/malavikabkrishnan/) 
+-[LinkedIn] https://www.linkedin.com/in/malavikabkrishnan/
 
 ⭐️ Thanks for visiting my GitHub! I’m always open to collaboration, product ideas, and feedback.
