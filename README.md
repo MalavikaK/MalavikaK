@@ -4,6 +4,7 @@
 
 ## 🧠 What I’m Working On
 
+- 📚 **AWS Solution Architect Certification** 
 - 🤖 **AI Product Exploration**: Building demo projects using LLMs to understand user applications of generative AI
 - 📚 **Open Source Contributions**: Improving documentation, onboarding, and usability for developer-facing AI tools
 
